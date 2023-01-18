@@ -1,0 +1,3 @@
+[submodule "LiDAR-HD"]
+	path = LiDAR-HD
+	url = git@github.com:romainloiseau/LiDAR-HD.git
